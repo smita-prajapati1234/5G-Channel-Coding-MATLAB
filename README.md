@@ -1,6 +1,5 @@
 # 5G-Channel-Coding-MATLAB
 MATLAB simulations and research studies on 5G channel coding techniques
-# 5G Channel Coding – MATLAB
 
 ## Overview
 
